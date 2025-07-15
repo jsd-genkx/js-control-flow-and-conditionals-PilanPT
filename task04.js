@@ -8,7 +8,7 @@
 
 // TODO BONUS: Rewrite with if
 
-const num = 26;
+const num = 22;
 
 if ((num%3===0)&&(num%5===0)) { console.log("FizzBuzz");
     
